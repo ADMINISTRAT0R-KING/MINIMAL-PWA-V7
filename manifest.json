@@ -8,7 +8,7 @@
     "theme_color": "#000",
     "categories": ["Website","Test","PWA"],
     "description": "application that will help you Testing.",
-    "start_url": "https://administrat0r-king.github.io/MINIMAL-PWA-V7/",
+    "start_url": "../index.html",
     "scope": "./",
     "icons": [{
       "src": "e.png",
@@ -17,7 +17,7 @@
     }],
     "shortcuts": [{
       "name": "HOME",
-      "url": "https://administrat0r-king.github.io/MINIMAL-PWA-V7/index.html",
+      "url": "../index.html",
       "icons": [{
         "src": "e.png",
         "type": "image/png",
