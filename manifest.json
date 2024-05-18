@@ -8,7 +8,7 @@
     "theme_color": "#000",
     "categories": ["Website","Test","PWA"],
     "description": "application that will help you Testing.",
-    "start_url": "/MINIMAL-PWA-V7/index.html",
+    "start_url": "/MINIMAL-PWA-V7/",
     "scope": "./",
     "icons": [{
       "src": "e.png",
@@ -17,7 +17,7 @@
     }],
     "shortcuts": [{
       "name": "HOME",
-      "url": "/MINIMAL-PWA-V7/index.html",
+      "url": "./MINIMAL-PWA-V7/",
       "icons": [{
         "src": "e.png",
         "type": "image/png",
