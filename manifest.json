@@ -1,0 +1,27 @@
+  {
+    "name": "PWA-DEMO",
+    "short_name": "V7",
+    "id": "PWA-V7",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "categories": ["Website","Test","PWA"],
+    "description": "application that will help you Testing.",
+    "start_url": "./MINIMAL-PWA-V7/index.html",
+    "scope": "./",
+    "icons": [{
+      "src": "e.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+    "shortcuts": [{
+      "name": "HOME",
+      "url": "./MINIMAL-PWA-V7/index.html",
+      "icons": [{
+        "src": "e.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }]
+    }]
+  }
